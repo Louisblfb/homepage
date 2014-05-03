@@ -57,6 +57,7 @@ input#string {
     color: #999999;
     border-radius: 50px;
     background: url("back.png");
+    text-indent: 10px;
 }
 
 #sqr {
