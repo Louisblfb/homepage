@@ -3,6 +3,24 @@ body {
     background: url('back.png');
 }
 
+#container-1 {
+    width: 300px;
+    height: 500px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    margin: -250px 0 0 -150px;
+}
+
+#container-2 {
+    position: absolute;
+    width: 400px;
+    height: 150px;
+    top: 50%;
+    left: 50%;
+    margin: -75px 0 0 -200px;
+}
+
 #master-box {
     width: 300px;
     height: 450px;
@@ -11,7 +29,7 @@ body {
     opacity: 0.6;
     margin: -225px 0 0 -150px;
     left: 50%;
-    top: 50%;
+    top: 45%;
     border-radius: 50px;
 }
 
@@ -37,7 +55,7 @@ a {text-decoration: none;}
 #s-con {
     width: 400px;
     height: 100px;
-    top: 50%;
+    top: 33%;
     left: 50%;
     position: absolute;
     margin: -50px 0 0 -200px;
