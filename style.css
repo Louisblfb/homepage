@@ -50,7 +50,7 @@ h1 {
     text-align: center;
 }
 
-a {text-decoration: none;}
+a {text-decoration: none; font-size: 20px;}
 
 #s-con {
     width: 400px;
@@ -93,5 +93,3 @@ input#string {
 }
 
 #ggl {letter-spacing:-0.35em;}
-
-#heading-resize {font-weight: 150;}
